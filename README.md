@@ -12,4 +12,7 @@ iOS 연관 문서 번역
 - [Combine](https://github.com/Jinsujin/translate-documents/issues/5)
 
 ### POP
-[(WWDC22) Embrace Swift generics](https://github.com/Jinsujin/translate-documents/issues/2)
+- [(WWDC22) Embrace Swift generics](https://github.com/Jinsujin/translate-documents/issues/2)
+
+### Library
+- [The Composable Architecture(TCA)](https://github.com/Jinsujin/translate-documents/issues/8)
